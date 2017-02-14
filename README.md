@@ -2,6 +2,8 @@
 ---
 开源地址：[https://github.com/open-android/IjkPlayer](https://github.com/open-android/IjkPlayer "开源项目地址")
 
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3b06da2e069a&vId=8a2c9bed5a3a4c7e015a3b06f649069b&videoId=55062E6200A017219C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 
 # 运行效果
 ![](http://i.imgur.com/KO9RoLe.gif)
